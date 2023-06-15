@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-STEM-8\Desktop\11d\11d\Proekt\Proekt\bin\Debug\Proekt.exe.config
+C:\Users\STUDENTS-STEM-8\Desktop\11d\11d\Proekt\Proekt\bin\Debug\Proekt.exe
+C:\Users\STUDENTS-STEM-8\Desktop\11d\11d\Proekt\Proekt\bin\Debug\Proekt.pdb
+C:\Users\STUDENTS-STEM-8\Desktop\11d\11d\Proekt\Proekt\bin\Debug\EntityFramework.dll
+C:\Users\STUDENTS-STEM-8\Desktop\11d\11d\Proekt\Proekt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\STUDENTS-STEM-8\Desktop\11d\11d\Proekt\Proekt\bin\Debug\EntityFramework.xml
+C:\Users\STUDENTS-STEM-8\Desktop\11d\11d\Proekt\Proekt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\STUDENTS-STEM-8\Desktop\11d\11d\Proekt\Proekt\obj\Debug\Proekt.csproj.AssemblyReference.cache
+C:\Users\STUDENTS-STEM-8\Desktop\11d\11d\Proekt\Proekt\obj\Debug\Proekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\STUDENTS-STEM-8\Desktop\11d\11d\Proekt\Proekt\obj\Debug\Proekt.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-STEM-8\Desktop\11d\11d\Proekt\Proekt\obj\Debug\Proekt.csproj.CopyComplete
+C:\Users\STUDENTS-STEM-8\Desktop\11d\11d\Proekt\Proekt\obj\Debug\Proekt.exe
+C:\Users\STUDENTS-STEM-8\Desktop\11d\11d\Proekt\Proekt\obj\Debug\Proekt.pdb
+C:\Users\STUDENTS-STEM-8\Desktop\11d\11d\Proekt\Proekt\obj\Debug\Proekt.Migrations.migrations.resources
+C:\Users\STUDENTS-STEM-8\Desktop\11d\11d\Proekt\Proekt\obj\Debug\Proekt.csproj.GenerateResource.cache
